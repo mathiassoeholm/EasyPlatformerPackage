@@ -2,5 +2,8 @@
 bin
 obj
 
+# Ignore meta files (created by previously used SVN)
+*.meta
+
 # mstest test results
 TestResults
