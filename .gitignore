@@ -13,6 +13,7 @@ _ReSharper.EasyPlatformerPackage-csharp
 *.sln
 *.csproj
 *.unityproj
+*.suo
 
 # OS generated files
 .DS_Store?
