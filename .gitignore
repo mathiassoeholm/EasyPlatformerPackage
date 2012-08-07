@@ -1,6 +1,9 @@
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
 bin
 obj
+Library
+Temp
+_ReSharper.EasyPlatformerPackage-csharp
 
 # Ignore meta files (created by previously used SVN)
 *.meta
